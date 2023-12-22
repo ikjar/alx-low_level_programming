@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- *_isdigit - check the code 
+ *_isdigit - check the code
  *
- *@C: input numbers between 0 to 9
+ *@c: input numbers between 0 to 9
  *
- *Return: 1 if c is a digit, o if not 
+ *Return: 1 if c is a digit, o if not
 */
 
 int _isdigit(int c)
