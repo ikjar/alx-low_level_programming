@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *char *_strcat - function that concatenates two strings
+ *_strcat - function that concatenates two strings
  *
  *@src: String parametre input
  *@dest: String parametre input
@@ -13,7 +13,7 @@ char *_strcat(char *dest, char *src)
 {
 	int s1, s2;
 
-	c = 0;
+	s1 = 0;
 
 	while (dest[s1])
 		s1++;
