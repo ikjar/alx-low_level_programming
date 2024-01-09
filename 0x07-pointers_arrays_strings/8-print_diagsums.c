@@ -1,10 +1,10 @@
 #include "main.h"
-
+#include <sdio.h>
 /**
  *print_diagsums - function that prints the sum of the two diagonals
  *			of a square matrix of integers.
  *@a: Tow dimenssion array of integer type.
- *@size: size of array integer.
+ *@size: size of array integer
  */
 
 void print_diagsums(int *a, int size)
