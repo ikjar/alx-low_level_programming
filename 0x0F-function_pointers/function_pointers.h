@@ -1,5 +1,5 @@
-#define FUNCTION_POITERS_H
 #ifndef FUNCTION_POITERS_H
+#define FUNCTION_POITERS_H
 
 #include <stdlib.h>
 
